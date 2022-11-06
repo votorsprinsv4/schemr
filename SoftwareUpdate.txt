@@ -1,1 +1,1 @@
-Add HUB-SDK Docs reference section (#7781)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
