@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+fix export tensorrt with dynamic size
