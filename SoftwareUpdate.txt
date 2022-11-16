@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Update CITATION.cff with cffinit corrections (#8658)
