@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+Optimize TFJS export on ARM64 (#8946)
