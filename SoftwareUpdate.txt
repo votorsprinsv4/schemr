@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Resize angle, count, and stage on keypoint number change (#7598)
