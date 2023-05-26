@@ -1,1 +1,1 @@
-fix resume training
+Fix heatmaps width-height order bug (#7184)
