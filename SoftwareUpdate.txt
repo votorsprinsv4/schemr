@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+Add PR Summary step to Ultralytics Actions (#7675)
