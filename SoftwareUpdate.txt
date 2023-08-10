@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+YOLOv8 INT8 TFLite Inference Example (#7317)
