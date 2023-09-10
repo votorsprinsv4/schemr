@@ -1,1 +1,1 @@
-Explorer API video https://youtu.be/3VryynorQeo  (#7838)
+Move Explorer tests to scheduled CI (#8305)
