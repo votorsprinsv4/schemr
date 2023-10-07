@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Fix TypeError in check_cfg() (#9245)
