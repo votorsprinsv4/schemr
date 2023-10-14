@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Disable Tab Limit - Disables the default tab limit (varies giữa devices)
