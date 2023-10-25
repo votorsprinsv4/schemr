@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
