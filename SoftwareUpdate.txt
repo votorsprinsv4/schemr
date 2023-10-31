@@ -1,1 +1,1 @@
-update requirements.txt
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
