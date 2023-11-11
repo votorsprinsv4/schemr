@@ -1,1 +1,1 @@
-Bounding Box to OBB conversion (#7572)
+Optimize function calls to method calls (#8507)
