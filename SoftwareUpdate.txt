@@ -1,1 +1,1 @@
-Feature: Create HUB Models from CLI or Python Script (#7316)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
