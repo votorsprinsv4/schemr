@@ -1,1 +1,1 @@
-add yolov10
+OBB: update metrics (#7593)
