@@ -1,1 +1,1 @@
-Fix solution functions description + integrations/openvino.md cover image update (#8170)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
