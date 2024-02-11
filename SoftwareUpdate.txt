@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
