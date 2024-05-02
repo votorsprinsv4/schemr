@@ -1,1 +1,1 @@
-Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
+Add HUB-SDK docs (#7775)
