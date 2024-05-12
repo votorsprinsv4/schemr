@@ -1,1 +1,1 @@
-ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
+ultralytics 8.1.17 fix ClassificationDataset caching (#8358)
